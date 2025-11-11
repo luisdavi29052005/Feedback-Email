@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gerador de Feedback com IA",
+  "description": "Gere mensagens de feedback de e-mail simuladas usando IA. Você pode gerar até 100 feedbacks de uma vez e salvá-los todos como imagens PNG, individualmente ou como um arquivo ZIP.",
+  "requestFramePermissions": []
+}
